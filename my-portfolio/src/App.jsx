@@ -8,20 +8,20 @@ function App() {
   const projects = [
     {
       id: 1,
-      title: "A tiny dock management app for mac",
-      description: "Summon your dock around cursor, no need to move to the bottom of the screen.",
+      title: "A macOS Dock summoner",
+      description: "Summon your dock at your cursor. No need to move to the edge of the screen anymore.",
       link: "https://github.com/VellerRider/KuchiyoseDock"
     },
     {
       id: 2,
       title: "A Safari-like Main page",
-      description: "A simple main page like Safari. For people enjoy Safari's aesthetics but have to use Chrome.",
+      description: "Bookmark and to-do management for those who enjoy Safari's aesthetics but need to use Chrome.",
       link: "https://github.com/VellerRider/Fibre"
     },
     {
       id: 3,
       title: "A Review App",
-      description: "Nothing special. For learning Java, Spring boot and Redis.",
+      description: "Nothing special - built from a Redis tutorial. Tweaked for my taste.",
       link: "https://github.com/VellerRider/ReviewRun"
     }
   ]

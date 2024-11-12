@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Veller Rider",
+  "short_name": "VR",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",

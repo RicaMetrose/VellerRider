@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="container">
       <Header 
-        name="VellerRider" 
+        name="Veller Rider" 
         subtitle="Writing, Coding, Dreaming" 
       />
 

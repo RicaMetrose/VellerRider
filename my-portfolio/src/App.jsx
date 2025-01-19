@@ -10,19 +10,25 @@ function App() {
       id: 1,
       title: "A macOS Dock summoner",
       description: "Summon your dock at your cursor. No need to move to the edge of the screen anymore.",
-      link: "https://github.com/RicaMetrose/KuchiyoseDock"
+      link: "https://github.com/VellerRider/KuchiyoseDock"
+    },
+    {
+      id: 1,
+      title: "A personal book library.",
+      description: "A personal book library to store your books and take notes.",
+      link: "cs-120-final-project-nu.vercel.app"
     },
     {
       id: 2,
       title: "A Safari-like Main page",
       description: "Bookmark and to-do management for those who enjoy Safari's aesthetics but need to use Chrome.",
-      link: "https://github.com/RicaMetrose/Fibre"
+      link: "https://github.com/VellerRider/Fibre"
     },
     {
       id: 3,
       title: "A Review App",
       description: "Nothing special - built from a Redis tutorial. Tweaked for my taste.",
-      link: "https://github.com/RicaMetrose/ReviewRun"
+      link: "https://github.com/VellerRider/ReviewRun"
     }
   ]
 
@@ -33,7 +39,7 @@ function App() {
   return (
     <div className="container">
       <Header 
-        name="RicaMetrose. The name of a character in my ongonging novel." 
+        name="VellerRider. The name of a character in my ongonging novel." 
         subtitle="To create is the reason I exist." 
       />
 

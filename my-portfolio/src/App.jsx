@@ -39,7 +39,7 @@ function App() {
   return (
     <div className="container">
       <Header 
-        name="VellerRider. The name of a character in my ongonging novel." 
+        name="Veller Rider" 
         subtitle="To create is the reason I exist." 
       />
 

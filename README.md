@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-This is Veller Rider
-
+This is Veller Rider  
 I drink a lot of water
 
 Once a gaming addict

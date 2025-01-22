@@ -1,4 +1,4 @@
-## Hi there 👋
+Writing & Coding
 <!-- 
 This is Veller Rider  
 I drink a lot of water  

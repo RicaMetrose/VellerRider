@@ -1,4 +1,5 @@
 Writing & Coding
+Staying hydrated
 <!-- 
 This is Veller Rider  
 I drink a lot of water  

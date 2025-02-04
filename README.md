@@ -1,4 +1,4 @@
-Writing & Coding
+I'm really having fun doing this.
 
 <!--
 **VellerRider/VellerRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
